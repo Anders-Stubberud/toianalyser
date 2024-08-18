@@ -1,0 +1,11 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+@media (max-width: 600px) {
+    #histograms-container > div {
+        width: 100%;
+    }
+}
+

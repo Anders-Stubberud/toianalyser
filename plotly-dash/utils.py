@@ -1,0 +1,1 @@
+STYLE_PAGES_MAIN_HTML_DIV = style={'width': '70vw', 'margin': 'auto', 'display': 'flex', 'flex-direction': 'column', 'align-items': 'center'}
